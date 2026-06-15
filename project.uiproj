@@ -1,0 +1,6 @@
+{
+  "Name": "WP_01_ResubidaArtículos",
+  "ProjectType": "Process",
+  "Description": "Proceso que se encarga de resubir los articulos de wallapop",
+  "MainFile": "Main.xaml"
+}
